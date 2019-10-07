@@ -1,0 +1,35 @@
+.nav{
+    height: 200px;
+    width: 80%;
+    margin: 0 auto;
+    background-color:#E8EAED;
+    text-align: center;
+}
+.nav h1{
+    padding-top: 50px;
+    
+}
+.nav button{
+    height: 35px;
+    width: 90px;
+    background-color:#0086CB;
+    color: #fff;
+    border: none;
+    font: bold;
+    font-size: 1em;
+}
+.nav button:hover{
+    background-color:#fff;
+    color: #000;
+}
+.container{
+    height: auto;
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+}
+#home{
+    height: auto;
+    width: 80%;
+    margin: 0 auto;
+}
